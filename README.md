@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my e-mail smlztrk2001@gmail.com
+- 📫 you can reach me by e-mail smlztrk2001@gmail.com
 
 <!---
 smlztrkk/smlztrkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
